@@ -1,16 +1,16 @@
-# 🗺️ Treasure Hunt Map
+# Treasure Hunt Map
 
 A real-world treasure hunt game where users explore an interactive map, solve challenges, and collect points and badges. Built with Next.js, Express, MongoDB, and Leaflet.js.
 
 ## Features
 
-- 🗺️ **Interactive World Map** - Explore cities and locations on a real-world map
-- 🎯 **Challenge System** - Solve quizzes, riddles, and logic puzzles
-- 🏆 **Progress Tracking** - Earn points and badges as you complete challenges
-- 📊 **Leaderboard** - Compete with other players globally
-- 👤 **User Profiles** - Track your progress and achievements
-- 🔐 **Authentication** - Secure user accounts with JWT
-- 🎨 **Modern UI** - Clean, responsive design with Tailwind CSS
+- **Interactive World Map** - Explore cities and locations on a real-world map
+- **Challenge System** - Solve quizzes, riddles, and logic puzzles
+- **Progress Tracking** - Earn points and badges as you complete challenges
+- **Leaderboard** - Compete with other players globally
+- **User Profiles** - Track your progress and achievements
+- **Authentication** - Secure user accounts with JWT
+- **Modern UI** - Clean, responsive design with Tailwind CSS
 
 ## Tech Stack
 
@@ -146,11 +146,4 @@ To access admin features, create a user with username "admin". Admin routes requ
 - Achievement system
 - Social features
 
-## License
-
-MIT
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
