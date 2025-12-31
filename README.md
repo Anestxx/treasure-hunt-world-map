@@ -127,9 +127,6 @@ To access admin features, create a user with username "admin". Admin routes requ
 
 ### Map Exploration
 - Click on city markers to view challenges
-- Green markers = Completed
-- Blue markers = Available
-- Red markers = Locked
 
 ### Challenge Types
 - **Quiz**: Multiple choice questions
