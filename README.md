@@ -2,6 +2,13 @@
 
 A real-world treasure hunt game where users explore an interactive map, solve challenges, and collect points and badges. Built with Next.js, Express, MongoDB, and Leaflet.js.
 
+![Home Page](folder-screenshots/home.png)
+![Challenge Screen](folder-screenshots/riddles.png)
+![signup](folder-screenshots/signup.png)
+![profile](folder-screenshots/profile.png)
+![leaderboard](folder-screenshots/leaderboard.png)
+
+
 ## Features
 
 - **Interactive World Map** - Explore cities and locations on a real-world map
